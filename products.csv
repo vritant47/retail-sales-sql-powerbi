@@ -1,0 +1,73 @@
+product_id,product_name,category,sub_category,unit_cost,list_price
+P001,Mobiles Item 1,Electronics,Mobiles,31860.02,36630
+P002,Mobiles Item 2,Electronics,Mobiles,32938.02,39760
+P003,Mobiles Item 3,Electronics,Mobiles,8999.18,11480
+P004,Mobiles Item 4,Electronics,Mobiles,29442.55,36160
+P005,Headphones Item 1,Electronics,Headphones,1605.69,1850
+P006,Headphones Item 2,Electronics,Headphones,3040.2,3840
+P007,Headphones Item 3,Electronics,Headphones,4906.73,6070
+P008,Headphones Item 4,Electronics,Headphones,4003.13,4430
+P009,Smartwatches Item 1,Electronics,Smartwatches,8349.51,8980
+P010,Smartwatches Item 2,Electronics,Smartwatches,10629.29,12670
+P011,Smartwatches Item 3,Electronics,Smartwatches,10360.83,11730
+P012,Smartwatches Item 4,Electronics,Smartwatches,11637.67,14600
+P013,Chargers & Cables Item 1,Electronics,Chargers & Cables,1454.17,1600
+P014,Chargers & Cables Item 2,Electronics,Chargers & Cables,970.31,1040
+P015,Chargers & Cables Item 3,Electronics,Chargers & Cables,390.43,470
+P016,Chargers & Cables Item 4,Electronics,Chargers & Cables,1209.21,1540
+P017,Men's Wear Item 1,Fashion,Men's Wear,1242.71,1640
+P018,Men's Wear Item 2,Fashion,Men's Wear,1749.4,2140
+P019,Men's Wear Item 3,Fashion,Men's Wear,686.87,950
+P020,Men's Wear Item 4,Fashion,Men's Wear,850.06,1290
+P021,Women's Wear Item 1,Fashion,Women's Wear,1791.44,2960
+P022,Women's Wear Item 2,Fashion,Women's Wear,3402.91,4380
+P023,Women's Wear Item 3,Fashion,Women's Wear,3127.44,5090
+P024,Women's Wear Item 4,Fashion,Women's Wear,2111.25,2690
+P025,Footwear Item 1,Fashion,Footwear,3026.99,3630
+P026,Footwear Item 2,Fashion,Footwear,1360.23,1550
+P027,Footwear Item 3,Fashion,Footwear,2695.24,4080
+P028,Footwear Item 4,Fashion,Footwear,2321.4,3730
+P029,Accessories Item 1,Fashion,Accessories,1059.24,1530
+P030,Accessories Item 2,Fashion,Accessories,564.28,670
+P031,Accessories Item 3,Fashion,Accessories,1521.53,2100
+P032,Accessories Item 4,Fashion,Accessories,1142.14,1820
+P033,Cookware Item 1,Home & Kitchen,Cookware,2308.13,3310
+P034,Cookware Item 2,Home & Kitchen,Cookware,2315.7,2970
+P035,Cookware Item 3,Home & Kitchen,Cookware,397.38,540
+P036,Cookware Item 4,Home & Kitchen,Cookware,1028.36,1380
+P037,Furniture Item 1,Home & Kitchen,Furniture,13992.8,17430
+P038,Furniture Item 2,Home & Kitchen,Furniture,2770.74,3520
+P039,Furniture Item 3,Home & Kitchen,Furniture,5047.76,7630
+P040,Furniture Item 4,Home & Kitchen,Furniture,7604.88,12240
+P041,Decor Item 1,Home & Kitchen,Decor,2051.2,2750
+P042,Decor Item 2,Home & Kitchen,Decor,2730.42,3310
+P043,Decor Item 3,Home & Kitchen,Decor,323.11,380
+P044,Decor Item 4,Home & Kitchen,Decor,2160.91,2970
+P045,Appliances Item 1,Home & Kitchen,Appliances,2279.75,3190
+P046,Appliances Item 2,Home & Kitchen,Appliances,2009.16,3090
+P047,Appliances Item 3,Home & Kitchen,Appliances,4661.35,6180
+P048,Appliances Item 4,Home & Kitchen,Appliances,3131.55,4660
+P049,Skincare Item 1,Beauty & Personal Care,Skincare,876.61,1030
+P050,Skincare Item 2,Beauty & Personal Care,Skincare,264.41,470
+P051,Skincare Item 3,Beauty & Personal Care,Skincare,1479.94,2280
+P052,Skincare Item 4,Beauty & Personal Care,Skincare,453.74,810
+P053,Haircare Item 1,Beauty & Personal Care,Haircare,920.1,1430
+P054,Haircare Item 2,Beauty & Personal Care,Haircare,703.24,890
+P055,Haircare Item 3,Beauty & Personal Care,Haircare,174.64,300
+P056,Haircare Item 4,Beauty & Personal Care,Haircare,731.9,900
+P057,Fragrances Item 1,Beauty & Personal Care,Fragrances,1136.61,1650
+P058,Fragrances Item 2,Beauty & Personal Care,Fragrances,669.0,1120
+P059,Fragrances Item 3,Beauty & Personal Care,Fragrances,2249.02,3500
+P060,Fragrances Item 4,Beauty & Personal Care,Fragrances,1460.38,2170
+P061,Gym Equipment Item 1,Sports & Fitness,Gym Equipment,6049.86,9090
+P062,Gym Equipment Item 2,Sports & Fitness,Gym Equipment,1478.14,1990
+P063,Gym Equipment Item 3,Sports & Fitness,Gym Equipment,996.61,1390
+P064,Gym Equipment Item 4,Sports & Fitness,Gym Equipment,4561.04,5480
+P065,Yoga & Wellness Item 1,Sports & Fitness,Yoga & Wellness,432.23,630
+P066,Yoga & Wellness Item 2,Sports & Fitness,Yoga & Wellness,482.76,840
+P067,Yoga & Wellness Item 3,Sports & Fitness,Yoga & Wellness,1645.9,2150
+P068,Yoga & Wellness Item 4,Sports & Fitness,Yoga & Wellness,1910.72,2190
+P069,Outdoor Item 1,Sports & Fitness,Outdoor,5536.05,7680
+P070,Outdoor Item 2,Sports & Fitness,Outdoor,5431.69,6370
+P071,Outdoor Item 3,Sports & Fitness,Outdoor,2972.8,4140
+P072,Outdoor Item 4,Sports & Fitness,Outdoor,5205.71,7530
